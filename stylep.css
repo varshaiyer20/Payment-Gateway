@@ -1,0 +1,35 @@
+
+.tnq{
+    text-align: center;
+    text-decoration: white;
+}
+
+.jumbotron{
+    text-align: center;
+    background: url(backp2.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.jumbotron h2{
+    font-family: 'Kalam', cursive;
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+.jumbotron p{
+    font-family: 'Fleur De Leah', cursive;
+    font-size: xx-large;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: url(Lightpink.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+}

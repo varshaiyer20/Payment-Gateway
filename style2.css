@@ -4,7 +4,13 @@
 }
 
 
-
+.jumbotron{
+    background: url(purple2.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 .jumbotron h2{
     
     text-align: center;
@@ -32,4 +38,29 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+hr{
+    border-color: palevioletred;
+    border-width: 3px;
+    max-width: 65px;
+}
+
+.btn{
+    
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+}
+
+.btn-primary{
+    background-color: palevioletred;
+}
+.btn-primary:hover{
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 4px;
+}
+.btn-xl{
+    padding: 1rem 2rem;
 }
